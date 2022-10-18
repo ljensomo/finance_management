@@ -1,0 +1,11 @@
+.login-form{
+    padding: 5% 30% 0 30%;
+}
+
+.register-form{
+    padding: 0% 30% 0 30%;
+}
+
+.float-right{
+    float: right;
+}
